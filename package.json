@@ -1,0 +1,15 @@
+{
+  "name": "learn-expressjs",
+  "version": "1.0.0",
+  "description": "learn-express",
+  "main": "index.js",
+  "scripts": {
+    "on": "node index.js"
+  },
+  "author": "arjunaKurniawan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
